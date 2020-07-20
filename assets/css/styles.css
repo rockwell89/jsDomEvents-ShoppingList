@@ -38,6 +38,7 @@ body {
   font-family: 'Indie Flower';
   overflow: hidden;
   outline: none;
+  cursor: pointer;
 }
 .holes {
   position: absolute;
